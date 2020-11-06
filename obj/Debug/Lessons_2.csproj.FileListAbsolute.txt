@@ -1,0 +1,14 @@
+C:\Users\fox\source\repos\Lessons_2\Lessons_2\obj\Debug\Lessons_2.csprojAssemblyReference.cache
+C:\Users\fox\source\repos\Lessons_2\Lessons_2\obj\Debug\Lessons_2.csproj.CoreCompileInputs.cache
+C:\Users\fox\source\repos\Lessons_2\Lessons_2\bin\Debug\Lessons_2.exe.config
+C:\Users\fox\source\repos\Lessons_2\Lessons_2\bin\Debug\Lessons_2.exe
+C:\Users\fox\source\repos\Lessons_2\Lessons_2\bin\Debug\Lessons_2.pdb
+C:\Users\fox\source\repos\Lessons_2\Lessons_2\obj\Debug\Lessons_2.exe
+C:\Users\fox\source\repos\Lessons_2\Lessons_2\obj\Debug\Lessons_2.pdb
+C:\Users\ossiris\Desktop\Учеба\C#\Lessons_2\Lessons_2\Lessons_2\bin\Debug\Lessons_2.exe.config
+C:\Users\ossiris\Desktop\Учеба\C#\Lessons_2\Lessons_2\Lessons_2\bin\Debug\Lessons_2.exe
+C:\Users\ossiris\Desktop\Учеба\C#\Lessons_2\Lessons_2\Lessons_2\bin\Debug\Lessons_2.pdb
+C:\Users\ossiris\Desktop\Учеба\C#\Lessons_2\Lessons_2\Lessons_2\obj\Debug\Lessons_2.csprojAssemblyReference.cache
+C:\Users\ossiris\Desktop\Учеба\C#\Lessons_2\Lessons_2\Lessons_2\obj\Debug\Lessons_2.csproj.CoreCompileInputs.cache
+C:\Users\ossiris\Desktop\Учеба\C#\Lessons_2\Lessons_2\Lessons_2\obj\Debug\Lessons_2.exe
+C:\Users\ossiris\Desktop\Учеба\C#\Lessons_2\Lessons_2\Lessons_2\obj\Debug\Lessons_2.pdb
