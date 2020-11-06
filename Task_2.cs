@@ -106,14 +106,7 @@ class Task_2
     }
     static bool Verification(string login, string password)
     {
-        string logpass = login + password;
-        switch (logpass)
-        {
-            case "rootGeekBrains":
-                return true;
-            default:
-                return false;
-        }
+        return (login == "root" && password == "GeekBrains");
     }
 
     #endregion
